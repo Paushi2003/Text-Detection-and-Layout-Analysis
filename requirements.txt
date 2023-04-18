@@ -1,0 +1,7 @@
+pytesseract
+streamlit
+layoutparser
+pdf2image
+opencv
+numpy
+Pillow
