@@ -5,6 +5,7 @@ pdf2image
 opencv-python-headless
 numpy
 Pillow
-tesseract-ocr 
-poppler-utils
-'git+https://github.com/facebookresearch/detectron2.git@v0.4#egg=detectron2'
+torchvision
+torch
+
+
